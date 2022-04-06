@@ -1,2 +1,3 @@
 this is my first text file editing before committing it
 this is the second line
+now a third line appears
